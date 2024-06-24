@@ -24,4 +24,4 @@ jobs:
 
     - name: Run script
       run: |
-        python EB_av_v1.7_bet1a_.py
+        python EB.py
