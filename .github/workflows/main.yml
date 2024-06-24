@@ -24,4 +24,5 @@ jobs:
 
     - name: Run script
       run: |
+        pip install requests numpy tensorflow scikit-learn
         python EB.py
